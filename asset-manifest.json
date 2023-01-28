@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/simul/static/css/main.15f51f48.css",
+    "main.js": "/simul/static/js/main.bda28f4d.js",
+    "static/js/787.06f6f06d.chunk.js": "/simul/static/js/787.06f6f06d.chunk.js",
+    "static/media/1.mp4": "/simul/static/media/1.1aa00cf8c7da26a05d89.mp4",
+    "static/media/4.png": "/simul/static/media/4.d29fab94a9e7ee539195.png",
+    "static/media/3.png": "/simul/static/media/3.c6728355f915b7a82e3e.png",
+    "static/media/2.png": "/simul/static/media/2.416051904089fde25502.png",
+    "static/media/1.png": "/simul/static/media/1.8b4731baeb85a021e32c.png",
+    "static/media/2.jpg": "/simul/static/media/2.380ab5a95534bd2194d3.jpg",
+    "static/media/perbandingan-hp-1.jpg": "/simul/static/media/perbandingan-hp-1.c320d61b9e5f3985eeac.jpg",
+    "static/media/laptop-1.jpg": "/simul/static/media/laptop-1.6aa18fcec94dd0c5da6c.jpg",
+    "index.html": "/simul/index.html",
+    "main.15f51f48.css.map": "/simul/static/css/main.15f51f48.css.map",
+    "main.bda28f4d.js.map": "/simul/static/js/main.bda28f4d.js.map",
+    "787.06f6f06d.chunk.js.map": "/simul/static/js/787.06f6f06d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15f51f48.css",
+    "static/js/main.bda28f4d.js"
+  ]
+}
